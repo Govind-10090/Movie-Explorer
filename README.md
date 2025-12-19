@@ -19,11 +19,10 @@ A premium, responsive React application that allows users to discover movies, vi
 - **Dark Mode UI**: Sleek, professional dark-themed interface.
 
 ## Screenshots
-![Home Page](./screenshots/home.png)
-*(Add your screenshots here)*
+![Home Page](screenshots/home.png)
 
 ## Live Demo
-[View Live Demo](https://your-demo-link.com)
+[View Live Demo](https://movie-explorer-one-delta.vercel.app/)
 
 ## Setup Instructions
 1. Clone the repository
